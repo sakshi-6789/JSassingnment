@@ -1,0 +1,28 @@
+
+			body{
+				display: flex;
+				height: 100vh;
+				align-items: center;
+				justify-content: center;
+
+			}
+			
+			
+			#table{
+				box-shadow: 0 0 14px black;
+				padding: 20px;
+				border-radius: 20px;	
+			}
+
+			#button{
+				background-color: gray;
+				color: aliceblue;
+				box-shadow: 0 0 8px black;
+				cursor: pointer;
+			}
+
+			#button:hover{
+				color: gray;
+				background-color: aliceblue;
+			}
+		
